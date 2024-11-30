@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StackLabAssignment" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/cream</item>
+        <item name="android:colorBackground">@color/cream</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:textColorSecondary">@color/black</item>
+        <item name="android:colorAccent">@color/white</item>
+        <item name="android:statusBarColor">@color/cream</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="CustomTabLayout" parent="Widget.Design.TabLayout">
+        <!-- Customize other attributes if needed -->
+        <item name="tabMaxWidth">0dp</item> <!-- Ensure tabs take all available width -->
+        <item name="tabPaddingStart">@dimen/tab_dot_margin</item>
+        <item name="tabPaddingEnd">@dimen/tab_dot_margin</item>
+    </style>
+
+    <style name="Theme.StackLabAssignment" parent="Base.Theme.StackLabAssignment" />
+</resources>

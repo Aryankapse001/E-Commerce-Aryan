@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define your custom dimensions -->
+    <dimen name="tab_dot_size">12dp</dimen>
+    <dimen name="tab_dot_margin">4dp</dimen>
+</resources>

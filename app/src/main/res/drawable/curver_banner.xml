@@ -1,0 +1,13 @@
+<!-- curved_banner.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <!-- Curved shape (cream color) -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="20dp" />
+            <solid android:color="@color/cream" />
+        </shape>
+    </item>
+
+</layer-list>

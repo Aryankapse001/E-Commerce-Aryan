@@ -1,0 +1,2 @@
+rootProject.name = "StackLabAssignment"
+include ':app'
