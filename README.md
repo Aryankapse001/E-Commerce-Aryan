@@ -16,7 +16,7 @@ This E-Commerce Aryan Android App is a demonstration of basic functionality impl
 
 To install the app on your Android device, follow these steps:
 
-1. Download the APK file from [here](https://drive.google.com/file/d/1jRR6ZE6aVhxAqMWE9D153fUA0LFN8h8d/view?usp=sharing).
+1. Download the APK file from [here]([https://drive.google.com/file/d/1jRR6ZE6aVhxAqMWE9D153fUA0LFN8h8d/view?usp=sharing](https://drive.google.com/file/d/1c-RSZk3cExW4wPMk_JKySfvxU2vlnMRG/view?usp=sharing)).
 2. Enable installation from unknown sources in your device settings.
 3. Install the APK file on your device.
 
