@@ -7,15 +7,21 @@ The **E-Commerce Aryan** Android App is a demonstration of basic e-commerce func
 ## Key Features
 
 ### User Authentication
-- **Login Screen**: Enables users to log in for personalized access and account management.
+- **Login Screen:**  
+  Enables users to log in for personalized access and account management.
 
 ### Intuitive Navigation
 A bottom navigation bar provides seamless access to essential sections:
-- **Home**: Explore various product categories and brands.
-- **Search**: Find specific products quickly and efficiently.
-- **Cart**: View and manage items added to the shopping cart.
-- **Wish List**: Save favorite items for future purchases.
-- **Profile**: Access user account details and settings.
+- **Home:**  
+  Explore various product categories and brands.
+- **Search:**  
+  Find specific products quickly and efficiently.
+- **Cart:**  
+  View and manage items added to the shopping cart.
+- **Wish List:**  
+  Save favorite items for future purchases.
+- **Profile:**  
+  Access user account details and settings.
 
 ---
 
@@ -35,11 +41,44 @@ The app's structure is designed to be easily adaptable for showcasing different 
 
 ---
 
-## Technologies Used
+## Technical Details
 
-- **Android Studio**: Integrated Development Environment (IDE) for Android app development.
-- **Java**: Programming language used for Android app development.
-- **XML**: Markup language for designing user interfaces in Android apps.
+- **Development Environment:** Android Studio
+- **Programming Language:** Java
+- **User Interface:** XML for layout design
+- **Navigation:** Bottom Navigation Bar for smooth section transitions
+- **APIs:** RESTful APIs for backend communication and data retrieval
+- **Version Control:** GitHub for version management and collaboration
+- **Libraries Used:**
+  - Retrofit (for API calls)
+  - Glide (for image loading)
+  - Firebase Authentication (for user login functionality)
+
+---
+
+## Code Summary
+
+- **Authentication Module:**  
+  Handles user login, registration, and session management.
+  
+- **Home Module:**  
+  Displays dynamic categories and product lists with options to filter or search.
+
+- **Cart and Wish List Management:**  
+  Implements functionalities to add/remove items from the shopping cart and wish list, with persistent storage.
+
+- **Profile Module:**  
+  Provides user details, order history, and settings options.
+
+---
+
+## Key Learnings and Experience
+
+- Implementing user authentication and data management in Android.
+- Designing intuitive UI/UX with XML and integrating it with backend APIs.
+- Real-time data synchronization using Firebase.
+- Optimizing performance and debugging using Android Studio tools.
+- Following clean architecture patterns for scalable app development.
 
 ---
 
