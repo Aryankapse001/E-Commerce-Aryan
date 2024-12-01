@@ -12,16 +12,11 @@ The **E-Commerce Aryan** Android App is a demonstration of basic e-commerce func
 
 ### Intuitive Navigation
 A bottom navigation bar provides seamless access to essential sections:
-- **Home:**  
-  Explore various product categories and brands.
-- **Search:**  
-  Find specific products quickly and efficiently.
-- **Cart:**  
-  View and manage items added to the shopping cart.
-- **Wish List:**  
-  Save favorite items for future purchases.
-- **Profile:**  
-  Access user account details and settings.
+- **Home:**  Explore various product categories and brands.
+- **Search:**  Find specific products quickly and efficiently.
+- **Cart:**  View and manage items added to the shopping cart.
+- **Wish List:**  Save favorite items for future purchases.
+- **Profile:**  Access user account details and settings.
 
 ---
 
