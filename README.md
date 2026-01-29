@@ -1,6 +1,6 @@
 # E-Commerce 
 
-The **E-Commerce Aryan** Android App is a demonstration of basic e-commerce functionality developed using Android Studio. It features a simple, functional interface designed to showcase core components of an online shopping experience, such as browsing brands, managing a shopping cart, wish lists, and user profiles. *Note: This app is for demonstration purposes only and is not intended for real-world deployment.*
+The **E-Commerce ** Android App is a demonstration of basic e-commerce functionality developed using Android Studio. It features a simple, functional interface designed to showcase core components of an online shopping experience, such as browsing brands, managing a shopping cart, wish lists, and user profiles. *Note: This app is for demonstration purposes only and is not intended for real-world deployment.*
 
 ---
 
